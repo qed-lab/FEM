@@ -55,7 +55,6 @@ public class FEM {
             new StreamReader(@"y:\active\expgar\fluid events model\figure eights\Subject.txt"),
             new StreamReader(@"y:\active\expgar\fluid events model\figure eights\Condition.txt"),
             new StreamReader(@"y:\active\expgar\fluid events model\figure eights\Trial.txt"),
-            // null,
             new StreamReader(@"y:\active\expgar\fluid events model\figure eights\Composite.txt"),
             new StreamReader(@"y:\active\expgar\fluid events model\figure eights\Strategy.txt"),
             new StreamReader(@"y:\active\expgar\fluid events model\figure eights\Angle.txt"),
